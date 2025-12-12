@@ -12,7 +12,7 @@ Given the recent surge in new business ventures and the historically high failur
 
 - **Source Code for Backend/Frontend**: [Github Repo Link](https://github.com/shirinadan/AI4ALL-Project)
 - **Presentation**: [BizLens_Startup_Success_Evaluator.pdf](https://shirinadan.github.io/ai4all-of.github.io/BizLens_Startup_Success_Evaluator.pdf)
-- **Portfolio**: [https://shirinadan.github.io/ai4all-bizlens.github.io/]
+- **Portfolio**: [Link](https://shirinadan.github.io/ai4all-bizlens.github.io/)
 
 ---
 
